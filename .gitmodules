@@ -1,0 +1,3 @@
+[submodule "bert-score"]
+	path = bert-score
+	url = https://github.com/hnthap/bert_score
